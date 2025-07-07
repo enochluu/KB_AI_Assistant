@@ -62,7 +62,3 @@ It uses:
 
 ---
 
-## License
-
-[Add your license here]
-
